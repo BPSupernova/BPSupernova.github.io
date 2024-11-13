@@ -1,9 +1,6 @@
-# Scrollable 3D Animation with Three.js
+## Three.js doesn't work with Github Pages right now
 
-- Watch the [full tutorial](https://youtu.be/Q7AOvWpIVHU) on YouTube
-- [Scrollable Three.js Animation](https://fireship.io/snippets/threejs-scrollbar-animation) Snippet
-
-## Usage
+## To run
 
 ```
 git clone <this-repo>
